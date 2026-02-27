@@ -1,0 +1,10 @@
+/* polls/static/polls/style.css */
+li a {
+    color: black;
+}
+
+/* polls/static/polls/style.css */
+body {
+    background: url("images/background5.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
